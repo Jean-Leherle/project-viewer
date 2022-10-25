@@ -21,6 +21,4 @@ La technologie principal sera React.js.
 
 Aucune base de donnée ne sera lié par soucis de simplicité de réalisation (le sujet reste react)
 
-Je m'accorde du 19/10 au 23/10 à temps partiel pour réaliser ce projet.
-
 Il sera à visibilité publique sur Github. &#192; noter que comme il s'agit d'une découverte de React : des mauvaises pratiques quand à l'utilisation de react peuvent donc être rendu publique.
